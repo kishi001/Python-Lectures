@@ -21,7 +21,7 @@ Installing all the necessary libraries might prove troublesome. Anaconda comes p
 
 # Anaconda
 
-Download Anaconda from https://www.continuum.io/downloads
+Download Anaconda from https://www.anaconda.com/download/
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.x options are available.
 
@@ -72,6 +72,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
   3.5 - Groupby
   
 ---------------------------------------------------------------- 
+
  4 - Matplotlib
   
   4.1 Matplotlib Concepts  
