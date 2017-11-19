@@ -47,23 +47,23 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
 2 - Numpy
   
-  [2.1 - Numpy array creation](https://github/kishi001/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
+  [2.1 - Numpy array creation](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
   
   [2.2 - Datatypes of Numpy arrays](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/2-Datatypes-of-Numpy-arrays-finished.ipynb)
   
-  [2.3 - Array Operations](https://github/kishi001/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
+  [2.3 - Array Operations](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
   
-  [2.4 - Array slicing and indexing](https://github/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
+  [2.4 - Array slicing and indexing](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
   
-  [2.5 - File Operarions](https://github/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
+  [2.5 - File Operarions](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
   
 ---------------------------------------------------------------- 
   
  3 - Pandas
  
-  3.1 - Series
+  [3.1 - Series](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/1-Series-finished.ipynb)
   
-  3.2 - DataFrames
+  [3.2 - DataFrames](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/2-DataFrames-finished.ipynb)
   
   3.3 - Missing Data
   
@@ -75,7 +75,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
  4 - Matplotlib
   
-  4.1 Matplotlib Concepts  
+  [4.1 Matplotlib Concepts](https://github.com/kishi001/Python-Lectures/blob/master/Matplotlib/1-Matplotlib-Concepts.ipynb)  
  
 ----------------------------------------------------------------
  
