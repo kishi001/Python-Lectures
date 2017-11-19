@@ -47,15 +47,15 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
 2 - Numpy
   
-  [2.1 - Numpy array creation](http://nbviewer.jupyter.org/github/kishi001/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
+  [2.1 - Numpy array creation](https://github/kishi001/Python-Lectures/blob/master/Numpy/1-Numpy-array-creation-finished.ipynb)
   
   [2.2 - Datatypes of Numpy arrays](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/2-Datatypes-of-Numpy-arrays-finished.ipynb)
   
-  [2.3 - Array Operations](http://nbviewer.jupyter.org/github/kishi001/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
+  [2.3 - Array Operations](https://github/kishi001/Python-Lectures/blob/master/Numpy/3-Array-Operations-finished.ipynb)
   
-  [2.4 - Array slicing and indexing](http://nbviewer.jupyter.org/github/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
+  [2.4 - Array slicing and indexing](https://github/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
   
-  [2.5 - File Operarions](http://nbviewer.jupyter.org/github/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
+  [2.5 - File Operarions](https://github/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
   
 ---------------------------------------------------------------- 
   
