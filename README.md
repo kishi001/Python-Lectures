@@ -31,7 +31,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
   1.1 - Variable and Operators 
   
-  1.2 - Print Statement, Precision and Built-in functions 
+  1.2 - Built-in functions 
   
   1.3 - Lists, Tuples and Sets
 
