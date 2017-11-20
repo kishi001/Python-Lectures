@@ -29,19 +29,19 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
 1 - Basic Python
 
-  1.1 - Variable and Operators 
+  [1.1 - Variable and Operators](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/1-variables-and-Operators-finished.ipynb) 
   
-  1.2 - Built-in functions 
+  [1.2 - Built-in functions](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/2-Built-in-functions-finished.ipynb)
   
-  1.3 - Lists, Tuples and Sets
+  [1.3 - Lists, Tuples and Sets](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/3-Lists-Tuples-and-Sets-finished.ipynb)
 
-  1.4 - Strings and Dictionaries
+  [1.4 - Strings and Dictionaries](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/4-Strings-and-Dictionaries-finished.ipynb)
 
-  1.5 - Control Flow Statements
+  [1.5 - Control Flow Statements](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/5-Control-Flow-Statements-finidhed.ipynb)
 
-  1.6 - Functions
+  [1.6 - Functions](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/6-Functions-finished.ipynb)
 
-  1.7 - Classes
+  [1.7 - Classes](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/7-Classes-finished.ipynb)
 
 ----------------------------------------------------------------
 
@@ -65,11 +65,11 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
   
   [3.2 - DataFrames](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/2-DataFrames-finished.ipynb)
   
-  3.3 - Missing Data
+  [3.3 - Missing Data](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/3-Missing-Data-finished.ipynb)
   
-  3.4 - Descriptive
+  [3.4 - Descriptive](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/4-Descriptive-finished.ipynb)
   
-  3.5 - Groupby
+  [3.5 - Groupby]()
   
 ---------------------------------------------------------------- 
 
