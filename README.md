@@ -83,9 +83,9 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
  
   5.1 - Overview of HTML and CSS
   
-  5.2 - Scraping using BeautifulSoup
+  [5.2 - Scraping using BeautifulSoup](https://github.com/kishi001/Python-Lectures/blob/master/Website%20Scraping/2-Scraping-using-BeautifulSoup.ipynb)
   
-  5.3 - BeautifulSoup with Selenium
+  [5.3 - BeautifulSoup with Selenium] (https://github.com/kishi001/scrape-twitter)
   
   5.4 - Overview of Scrapy
  
