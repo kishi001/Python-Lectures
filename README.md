@@ -69,7 +69,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
   
   [3.4 - Descriptive](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/4-Descriptive-finished.ipynb)
   
-  [3.5 - Groupby]()
+  [3.5 - Groupby](https://github.com/kishi001/Python-Lectures/blob/master/Pandas/5-Groupby-finished.ipynb)
   
 ---------------------------------------------------------------- 
 
