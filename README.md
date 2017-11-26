@@ -37,7 +37,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
   [1.4 - Strings and Dictionaries](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/4-Strings-and-Dictionaries-finished.ipynb)
 
-  [1.5 - Control Flow Statements](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/5-Control-Flow-Statements-finidhed.ipynb)
+  [1.5 - Control Flow Statements](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/5-Control-Flow-Statements-finished.ipynb)
 
   [1.6 - Functions](https://github.com/kishi001/Python-Lectures/blob/master/Basic%20Python/6-Functions-finished.ipynb)
 
