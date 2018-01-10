@@ -100,7 +100,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
  7 - Machine Learning
 
 
- 7.1 - Data Preporcessing
+ 7.1 - Data Preprccessing
 
  7.2 - Regression
  
@@ -116,14 +116,14 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
  8 - Real life applications with Python
  
- 8.1 - Creating a Webmaps with Python and Folium
+ 8.1 - Creating a Webmaps with Python and Folium (would demo)
  
- 8.2 - Building a Website Blocker
+ 8.2 - Building a Website Blocker 
  
- 8.3 - Building a Website with Python and Flask
+ 8.3 - Building a Website with Python and Flask (For discussion)
  
  8.4 - Building GUI with Tkinter
  
- 8.5 - Building a Webcam Motion Detector
+ 8.5 - Building a Webcam Motion Detector (would demo)
  
- 8.6 - Building a Scraper to scrape data
+ [8.6 - Building a Scraper to scrape data]
