@@ -98,59 +98,22 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
  ---------------------------------------------------------
  
  7 - Machine Learning
- 
+
+
  7.1 - Data Preporcessing
- 
- 
+
  7.2 - Regression
- 
- 7.2.1 - Simple Linear Regression
- 
- 7.2.2 - Multiple Linear Regression
- 
- 7.2.3 - Polynomial Regression
- 
- 7.2.4 - Support Vector Regression (SVR)
- 
- 7.2.5 - Decision Tree Regression
- 
- 7.2.6 - Random Forest Regression
- 
  
  7.3 - Classification
  
- 7.3.1 - Logistic Regression
- 
- 7.3.2 - K-Nearest Neighbours (K-NN)
- 
- 7.3.3 - Support Vector Machine (SVM)
- 
- 7.3.4 - Kernel SVM
- 
- 7.3.5 - Naive Bayes
- 
- 7.3.6 - Decision Tree Classification
- 
- 7.3.7 - Random Forest Classification
- 
- 
  7.4 - Clustering
- 
- 7.4.1 - K-Means Clustering
- 
- 7.4.2 - Hierarchical Clustering
- 
  
  7.5 - Natural Language Processing
  
- 
  7.6 - Deep Learning
- 
- 7.6.1 - Aritficial Neural Network
- 
- 7.6.2 - Convolutional Neural Network
- 
+  
  -------------------------------------------------------
+
  8 - Real life applications with Python
  
  8.1 - Creating a Webmaps with Python and Folium
