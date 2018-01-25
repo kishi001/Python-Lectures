@@ -55,7 +55,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
   
   [2.4 - Array slicing and indexing](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/4-Arrays-slicing-and-indexing-finished.ipynb)
   
-  [2.5 - File Operarions](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
+  [2.5 - File Operations](https://github.com/kishi001/Python-Lectures/blob/master/Numpy/5-File-Operations-finished.ipynb)
   
 ---------------------------------------------------------------- 
   
