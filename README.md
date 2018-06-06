@@ -100,17 +100,23 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
  7 - Machine Learning
 
 
- 7.1 - Data Preprocessing
+ [7.1 - Linear Regression](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Linear-Regression)
 
- 7.2 - Regression
+ [7.2 - Logistic Regression](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Logistic-Regression)
  
- 7.3 - Classification
+ [7.3 - K-Nearest-Neighbors](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/K-Nearest-Neighbors)
  
- 7.4 - Clustering
+ [7.4 - Decision Tree and Random Forests](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Decision-Trees-and-Random-Forests)
  
- 7.5 - Natural Language Processing
+ [7.5 - Support Vector Machines](http://localhost:8888/tree/Desktop/Python-Lectures/Machine-Learning/Support-Vector-Machines)
  
- 7.6 - Deep Learning
+ [7.6 - K Means Clustering](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/K-Means-Clustering)
+ 
+ [7.7 - Principal Component Analysis](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Principal-Component-Analysis)
+ 
+ [7.8 - Recommender System](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Recommender-Systems)
+ 
+ [7.9 - Natural Language Processing](https://github.com/kishi001/Python-Lectures/tree/master/Machine-Learning/Natural-Language-Processing) 
   
  -------------------------------------------------------
 
